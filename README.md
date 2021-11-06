@@ -13,3 +13,19 @@ Each file in this section contains the code anf the implementation of different 
 - The function iloc and loc was used as well.
 - Conditional selection was done and we now know about isin(), notnull(), null() funtions.
 - Assigning of Data was learnt.
+
+# File 3
+- Summary functions like describe, mean() and so on was understood.
+- map() returns a new Series where all the values have been transformed by your function.
+
+# File 4
+- groupby() function was used with different conditions.
+- Sorting concept was understood.
+
+# File 5
+- Different datatypes were discussed.
+- Dealing with missing data using fillna() and replace().
+
+# File 6
+- How to rename columns.
+- Concatination, merging and joing of multiple datasets
