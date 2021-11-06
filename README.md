@@ -1,7 +1,7 @@
 # Kaggle Solution Pandas
 The solutions of all the exercises in the Kaggle's pandas course
 
-Each file in this section contains the code anf the implementation of different useful function in pandas module.
+Each file in this section contains the code and the implementation of different useful function in pandas module.
 
 # File 1
 - We have used DataFrame() and Series() to display data.
